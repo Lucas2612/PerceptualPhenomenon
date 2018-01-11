@@ -1,0 +1,4 @@
+https://cyfar.org/types-statistical-tests
+https://en.wikipedia.org/wiki/Numerical_Stroop_effect
+https://www.graphpad.com/quickcalcs/
+https://stackoverflow.com/questions/6557977/add-mean-value-to-histogram-in-r
